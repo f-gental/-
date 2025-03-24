@@ -24,5 +24,5 @@ export default defineConfig({
     port: 5173, // 可按需修改端口号
     open: true,
   },
-  base: '/f-gental/',
+  base: '/f-gental/-/',
 });
